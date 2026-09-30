@@ -121,9 +121,6 @@
 ---
 
 <!-- ===================== RODAPÉ ===================== -->
-<p align="center">
-  <i>"Primeiro resolva o problema. Depois escreva o código."</i> — John Johnson
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BF40FA,100:040607&height=120&section=footer" width="100%" alt="Footer" />
