@@ -9,6 +9,9 @@
 
 <!-- ===================== CONTATOS ===================== -->
 <p align="center">
+  <a href="https://lorenzo-or7.github.io">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-BF40FA?style=for-the-badge&logo=googlechrome&logoColor=040607" alt="Portfólio" />
+  </a>
   <a href="https://www.linkedin.com/in/lorenzo-orsetti-031906349/">
     <img src="https://img.shields.io/badge/LinkedIn-040607?style=for-the-badge&logo=linkedin&logoColor=BF40FA" alt="LinkedIn" />
   </a>
@@ -71,8 +74,8 @@
       <img src="https://img.shields.io/badge/Dados%20Abertos-TSE-BF40FA?style=flat-square&labelColor=040607" />
     </td>
     <td width="50%" valign="top">
-      <h3>🦎 <a href="#">Iguana Empório Pet</a></h3>
-      <p>Site para pet shop com vitrine de produtos e serviços, informações da loja e contato direto com o cliente.</p>
+      <h3>🦎 <a href="https://lorenzo-or7.github.io/iguana-emporio-pet-demo/">Iguana Empório Pet</a></h3>
+      <p>Site para pet shop de Curitiba com produtos, banho e tosa, delivery, cashback e tema claro/escuro.</p>
       <img src="https://img.shields.io/badge/HTML5-040607?style=flat-square&logo=html5&logoColor=BF40FA" />
       <img src="https://img.shields.io/badge/CSS3-040607?style=flat-square&logo=css&logoColor=BF40FA" />
       <img src="https://img.shields.io/badge/JavaScript-040607?style=flat-square&logo=javascript&logoColor=BF40FA" />
