@@ -15,7 +15,7 @@
   <a href="https://www.instagram.com/lorenzo.or7/">
     <img src="https://img.shields.io/badge/Instagram-040607?style=for-the-badge&logo=instagram&logoColor=BF40FA" alt="Instagram" />
   </a>
-  <a href="mailto:SEU_EMAIL@gmail.com">
+  <a href="mailto:lmorsetti@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-BF40FA?style=for-the-badge&logo=gmail&logoColor=040607" alt="Gmail" />
   </a>
 </p>
