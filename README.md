@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/32839687/README.md)
 <!-- ===================== BANNER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:040607,100:BF40FA&height=220&section=header&text=Lorenzo%20Orsetti&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Paran%C3%A1%20-%20Brasil&descAlignY=58&descSize=18" width="100%" alt="Banner" />
@@ -99,8 +100,8 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🍎 <a href="#">Maçã Padaria</a></h3>
-      <p>Site para padaria com cardápio, horários de funcionamento e canais de pedido.</p>
+      <h3>🍎 <a href="https://lorenzo-or7.github.io/maca-padaria-demo/">Maçã Padaria</a></h3>
+      <p>Site para padaria artesanal de Curitiba, com cardápio filtrável, favoritos da casa, unidades com rotas e tema claro/escuro.</p>
       <img src="https://img.shields.io/badge/HTML5-040607?style=flat-square&logo=html5&logoColor=BF40FA" />
       <img src="https://img.shields.io/badge/CSS3-040607?style=flat-square&logo=css&logoColor=BF40FA" />
       <img src="https://img.shields.io/badge/JavaScript-040607?style=flat-square&logo=javascript&logoColor=BF40FA" />
