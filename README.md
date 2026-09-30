@@ -83,8 +83,8 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>✨ <a href="#">Casa di Lucente</a></h3>
-      <p>Site institucional com apresentação da marca, catálogo e canais de atendimento, com visual elegante e responsivo.</p>
+      <h3>✨ <a href="https://lorenzo-or7.github.io/casa-di-lucente-demo/">Casa di Lucente</a></h3>
+      <p>Site para gelateria e cafeteria de Curitiba, com cardápio filtrável, disponibilidade do dia, vídeos e tema claro/escuro.</p>
       <img src="https://img.shields.io/badge/HTML5-040607?style=flat-square&logo=html5&logoColor=BF40FA" />
       <img src="https://img.shields.io/badge/CSS3-040607?style=flat-square&logo=css&logoColor=BF40FA" />
       <img src="https://img.shields.io/badge/JavaScript-040607?style=flat-square&logo=javascript&logoColor=BF40FA" />
