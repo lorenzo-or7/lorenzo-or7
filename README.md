@@ -115,10 +115,6 @@
 <h2 align="center">🟣 Estatísticas</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lorenzo-or7&bg_color=040607&color=ffffff&line=BF40FA&point=ffffff&area=true&area_color=BF40FA&title_color=BF40FA&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20de%20Lorenzo" width="100%" alt="Gráfico de contribuições" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=lorenzo-or7&background=040607&ring=BF40FA&fire=BF40FA&currStreakLabel=BF40FA&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9a9a9a&stroke=BF40FA&hide_border=true&locale=pt_BR" height="170" alt="Streak" />
 </p>
 
