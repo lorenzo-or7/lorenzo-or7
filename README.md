@@ -87,7 +87,7 @@
       <img src="https://img.shields.io/badge/JavaScript-040607?style=flat-square&logo=javascript&logoColor=BF40FA" />
     </td>
     <td width="50%" valign="top">
-      <h3>💈 <a href="#">Barbearia Chapula</a></h3>
+      <h3>💈 <a href="https://lorenzo-or7.github.io/barbearia-chapula-demo/">
       <p>Site para barbearia com serviços, preços, localização e agendamento rápido pelo WhatsApp.</p>
       <img src="https://img.shields.io/badge/HTML5-040607?style=flat-square&logo=html5&logoColor=BF40FA" />
       <img src="https://img.shields.io/badge/CSS3-040607?style=flat-square&logo=css&logoColor=BF40FA" />
