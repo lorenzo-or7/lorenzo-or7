@@ -1,46 +1,134 @@
-# 👋 Olá, eu sou Lorenzo Orsetti
+<!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:040607,100:BF40FA&height=220&section=header&text=Lorenzo%20Orsetti&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Paran%C3%A1%20-%20Brasil&descAlignY=58&descSize=18" width="100%" alt="Banner" />
+</p>
 
-### Software Engineering Student & Developer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=BF40FA&center=true&vCenter=true&width=520&lines=Ol%C3%A1!+Eu+sou+o+Lorenzo+%F0%9F%91%8B;Desenvolvedor+Web+Full+Stack;JavaScript+%E2%80%A2+Python+%E2%80%A2+PHP+%E2%80%A2+MySQL" alt="Typing SVG" />
+</p>
 
-Estudante de Engenharia de Software com interesse em desenvolvimento web, banco de dados e criação de aplicações modernas.
-
-Atualmente desenvolvo projetos utilizando principalmente **PHP, JavaScript, Python e MySQL**.
-
----
-
-## 💻 Tecnologias
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<!-- ===================== CONTATOS ===================== -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/lorenzo-orsetti-031906349/">
+    <img src="https://img.shields.io/badge/LinkedIn-040607?style=for-the-badge&logo=linkedin&logoColor=BF40FA" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/lorenzo.or7/">
+    <img src="https://img.shields.io/badge/Instagram-040607?style=for-the-badge&logo=instagram&logoColor=BF40FA" alt="Instagram" />
+  </a>
+  <a href="mailto:SEU_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-BF40FA?style=for-the-badge&logo=gmail&logoColor=040607" alt="Gmail" />
+  </a>
 </p>
 
 ---
 
-## 🚀 Projetos em destaque
+<!-- ===================== SOBRE MIM ===================== -->
+<h2 align="center">🟣 Sobre mim</h2>
 
-### 🇧🇷 VotAI
+<p align="center">
+  Sou <b>Lorenzo Orsetti</b>, desenvolvedor de software do Paraná, Brasil. Crio sites e sistemas web
+  para negócios locais e projetos de impacto social, cuidando do front-end ao banco de dados.
+  Hoje trabalho principalmente com <b>JavaScript, Python, PHP e MySQL</b>, e estou sempre
+  aprendendo algo novo para entregar aplicações mais rápidas, bonitas e úteis.
+</p>
 
-Plataforma web para consulta e comparação de candidatos e propostas eleitorais utilizando dados públicos do TSE.
-
-**PHP • MySQL • JavaScript • HTML • CSS**
-
-[Ver projeto](https://github.com/lorenzo-o7/VotAI)
-
----
-
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lorenzo-o7&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-o7&layout=compact&theme=transparent)
+<p align="center">
+  🔭 Trabalhando no <b>VotAI</b> &nbsp;•&nbsp; 🌱 Aprendendo coisas novas todo dia &nbsp;•&nbsp; 💬 Pode me chamar para projetos freelance
+</p>
 
 ---
 
-## 📫 Contato
+<!-- ===================== TECNOLOGIAS ===================== -->
+<h2 align="center">🟣 Tecnologias</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-orsetti-031906349/)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-040607?style=for-the-badge&logo=html5&logoColor=BF40FA" />
+  <img src="https://img.shields.io/badge/CSS3-040607?style=for-the-badge&logo=css&logoColor=BF40FA" />
+  <img src="https://img.shields.io/badge/JavaScript-040607?style=for-the-badge&logo=javascript&logoColor=BF40FA" />
+  <img src="https://img.shields.io/badge/Python-040607?style=for-the-badge&logo=python&logoColor=BF40FA" />
+  <img src="https://img.shields.io/badge/PHP-040607?style=for-the-badge&logo=php&logoColor=BF40FA" />
+  <br/>
+  <img src="https://img.shields.io/badge/MySQL-040607?style=for-the-badge&logo=mysql&logoColor=BF40FA" />
+  <img src="https://img.shields.io/badge/Git-040607?style=for-the-badge&logo=git&logoColor=BF40FA" />
+  <img src="https://img.shields.io/badge/GitHub-040607?style=for-the-badge&logo=github&logoColor=BF40FA" />
+  <img src="https://img.shields.io/badge/VS%20Code-040607?style=for-the-badge&logo=vscodium&logoColor=BF40FA" />
+  <img src="https://img.shields.io/badge/Figma-040607?style=for-the-badge&logo=figma&logoColor=BF40FA" />
+</p>
+
+---
+
+<!-- ===================== PROJETOS ===================== -->
+<h2 align="center">🟣 Projetos</h2>
+
+<!-- Troque os links "#" pelos repositórios ou sites publicados de cada projeto -->
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗳️ <a href="https://github.com/lorenzo-or7/VotAI">VotAI</a></h3>
+      <p>Plataforma de consulta e comparação de candidatos e propostas eleitorais usando dados públicos do TSE, ajudando o eleitor a votar com mais informação.</p>
+      <img src="https://img.shields.io/badge/PHP-040607?style=flat-square&logo=php&logoColor=BF40FA" />
+      <img src="https://img.shields.io/badge/MySQL-040607?style=flat-square&logo=mysql&logoColor=BF40FA" />
+      <img src="https://img.shields.io/badge/Dados%20Abertos-TSE-BF40FA?style=flat-square&labelColor=040607" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🦎 <a href="#">Iguana Empório Pet</a></h3>
+      <p>Site para pet shop com vitrine de produtos e serviços, informações da loja e contato direto com o cliente.</p>
+      <img src="https://img.shields.io/badge/HTML5-040607?style=flat-square&logo=html5&logoColor=BF40FA" />
+      <img src="https://img.shields.io/badge/CSS3-040607?style=flat-square&logo=css&logoColor=BF40FA" />
+      <img src="https://img.shields.io/badge/JavaScript-040607?style=flat-square&logo=javascript&logoColor=BF40FA" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✨ <a href="#">Casa di Lucente</a></h3>
+      <p>Site institucional com apresentação da marca, catálogo e canais de atendimento, com visual elegante e responsivo.</p>
+      <img src="https://img.shields.io/badge/HTML5-040607?style=flat-square&logo=html5&logoColor=BF40FA" />
+      <img src="https://img.shields.io/badge/CSS3-040607?style=flat-square&logo=css&logoColor=BF40FA" />
+      <img src="https://img.shields.io/badge/JavaScript-040607?style=flat-square&logo=javascript&logoColor=BF40FA" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>💈 <a href="#">Barbearia Chapula</a></h3>
+      <p>Site para barbearia com serviços, preços, localização e agendamento rápido pelo WhatsApp.</p>
+      <img src="https://img.shields.io/badge/HTML5-040607?style=flat-square&logo=html5&logoColor=BF40FA" />
+      <img src="https://img.shields.io/badge/CSS3-040607?style=flat-square&logo=css&logoColor=BF40FA" />
+      <img src="https://img.shields.io/badge/JavaScript-040607?style=flat-square&logo=javascript&logoColor=BF40FA" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍎 <a href="#">Maçã Padaria</a></h3>
+      <p>Site para padaria com cardápio, horários de funcionamento e canais de pedido.</p>
+      <img src="https://img.shields.io/badge/HTML5-040607?style=flat-square&logo=html5&logoColor=BF40FA" />
+      <img src="https://img.shields.io/badge/CSS3-040607?style=flat-square&logo=css&logoColor=BF40FA" />
+      <img src="https://img.shields.io/badge/JavaScript-040607?style=flat-square&logo=javascript&logoColor=BF40FA" />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🚀 Em breve</h3>
+      <p>Novos projetos a caminho. Fique de olho!</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ===================== ESTATÍSTICAS ===================== -->
+<h2 align="center">🟣 Estatísticas</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lorenzo-or7&bg_color=040607&color=ffffff&line=BF40FA&point=ffffff&area=true&area_color=BF40FA&title_color=BF40FA&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20de%20Lorenzo" width="100%" alt="Gráfico de contribuições" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lorenzo-or7&background=040607&ring=BF40FA&fire=BF40FA&currStreakLabel=BF40FA&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9a9a9a&stroke=BF40FA&hide_border=true&locale=pt_BR" height="170" alt="Streak" />
+</p>
+
+---
+
+<!-- ===================== RODAPÉ ===================== -->
+<p align="center">
+  <i>"Primeiro resolva o problema. Depois escreva o código."</i> — John Johnson
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BF40FA,100:040607&height=120&section=footer" width="100%" alt="Footer" />
+</p>
