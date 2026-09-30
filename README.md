@@ -1,4 +1,3 @@
-
 <!-- ===================== BANNER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:040607,100:BF40FA&height=220&section=header&text=Lorenzo%20Orsetti&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Paran%C3%A1%20-%20Brasil&descAlignY=58&descSize=18" width="100%" alt="Banner" />
@@ -37,7 +36,7 @@
 </p>
 
 <p align="center">
-  🔭 Trabalhando no <b>VotAI</b> &nbsp;•&nbsp; 🌱 Aprendendo coisas novas todo dia &nbsp;•&nbsp; 💬 Pode me chamar para projetos freelance
+  🚀 Acabei de lançar o <a href="https://planosdegoverno.com.br/"><b>VotAI</b></a> &nbsp;•&nbsp; 🌱 Aprendendo coisas novas todo dia &nbsp;•&nbsp; 💬 Pode me chamar para projetos freelance
 </p>
 
 ---
@@ -68,8 +67,8 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3>🗳️ <a href="https://github.com/lorenzo-or7/VotAI">VotAI</a></h3>
-      <p>Plataforma de consulta e comparação de candidatos e propostas eleitorais usando dados públicos do TSE, ajudando o eleitor a votar com mais informação.</p>
+      <h3>🗳️ <a href="https://planosdegoverno.com.br/">VotAI</a> <sup>🟢 no ar</sup></h3>
+      <p>Plataforma que organiza os planos de governo das Eleições 2026: 1.866 propostas de 13 candidaturas, em 14 temas, para comparar lado a lado. <a href="https://github.com/lorenzo-or7/VotAI">Ver código</a></p>
       <img src="https://img.shields.io/badge/PHP-040607?style=flat-square&logo=php&logoColor=BF40FA" />
       <img src="https://img.shields.io/badge/MySQL-040607?style=flat-square&logo=mysql&logoColor=BF40FA" />
       <img src="https://img.shields.io/badge/Dados%20Abertos-TSE-BF40FA?style=flat-square&labelColor=040607" />
