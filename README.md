@@ -1,6 +1,5 @@
-<!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:040607,100:BF40FA&height=220&section=header&text=Lorenzo%20Orsetti&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Paran%C3%A1%20-%20Brasil&descAlignY=58&descSize=18" width="100%" alt="Banner" />
+  <img src="banner.svg" width="100%" alt="Lorenzo Orsetti" />
 </p>
 
 <p align="center">
@@ -63,19 +62,27 @@
 <!-- ===================== PROJETOS ===================== -->
 <h2 align="center">🟣 Projetos</h2>
 
-<!-- Troque os links "#" pelos repositórios ou sites publicados de cada projeto -->
 <table align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3>🗳️ <a href="https://planosdegoverno.com.br/">VotAI</a> <sup>🟢 no ar</sup></h3>
       <p>Plataforma que organiza os planos de governo das Eleições 2026: 1.866 propostas de 13 candidaturas, em 14 temas, para comparar lado a lado. <a href="https://github.com/lorenzo-or7/VotAI">Ver código</a></p>
       <img src="https://img.shields.io/badge/PHP-040607?style=flat-square&logo=php&logoColor=BF40FA" />
       <img src="https://img.shields.io/badge/MySQL-040607?style=flat-square&logo=mysql&logoColor=BF40FA" />
       <img src="https://img.shields.io/badge/Dados%20Abertos-TSE-BF40FA?style=flat-square&labelColor=040607" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3>🦎 <a href="https://lorenzo-or7.github.io/iguana-emporio-pet-demo/">Iguana Empório Pet</a></h3>
-      <p>Site para pet shop de Curitiba com produtos, banho e tosa, delivery, cashback e tema claro/escuro.</p>
+      <h3>✂️ <a href="https://lorenzo-or7.github.io/theclub-demo/">The Club</a> <sup>🆕</sup></h3>
+      <p>Site para barbearia de Curitiba com vídeo em tela cheia, planos de assinatura e agendamento online em 4 etapas.</p>
+      <img src="https://img.shields.io/badge/HTML5-040607?style=flat-square&logo=html5&logoColor=BF40FA" />
+      <img src="https://img.shields.io/badge/CSS3-040607?style=flat-square&logo=css&logoColor=BF40FA" />
+      <img src="https://img.shields.io/badge/JavaScript-040607?style=flat-square&logo=javascript&logoColor=BF40FA" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌸 <a href="https://lorenzo-or7.github.io/face-doctor-demo/">Face Doctor</a> <sup>🆕</sup></h3>
+      <p>Site para clínica de estética de Curitiba, com visual editorial, antes/depois e agendamento com área do paciente.</p>
       <img src="https://img.shields.io/badge/HTML5-040607?style=flat-square&logo=html5&logoColor=BF40FA" />
       <img src="https://img.shields.io/badge/CSS3-040607?style=flat-square&logo=css&logoColor=BF40FA" />
       <img src="https://img.shields.io/badge/JavaScript-040607?style=flat-square&logo=javascript&logoColor=BF40FA" />
@@ -83,15 +90,31 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>✨ <a href="https://lorenzo-or7.github.io/casa-di-lucente-demo/">Casa di Lucente</a> <sup>⏸️ descontinuado</sup></h3>
-      <p>Site para gelateria e cafeteria de Curitiba, com cardápio filtrável, disponibilidade do dia, vídeos e tema claro/escuro. <i>Projeto encerrado; o site segue no ar como registro.</i></p>
+      <h3>🚗 <a href="https://lorenzo-or7.github.io/auto-supremo-demo/">Auto Supremo</a> <sup>🆕</sup></h3>
+      <p>Site para estética automotiva de Curitiba, com abertura interativa, comparador antes/depois e vídeos do box.</p>
       <img src="https://img.shields.io/badge/HTML5-040607?style=flat-square&logo=html5&logoColor=BF40FA" />
       <img src="https://img.shields.io/badge/CSS3-040607?style=flat-square&logo=css&logoColor=BF40FA" />
       <img src="https://img.shields.io/badge/JavaScript-040607?style=flat-square&logo=javascript&logoColor=BF40FA" />
     </td>
     <td width="50%" valign="top">
+      <h3>📊 <a href="https://lorenzo-or7.github.io/contlup-demo/">ContLup</a> <sup>🆕</sup></h3>
+      <p>Site para escritório de contabilidade de Pedreira/SP, com tema escuro/claro, painel de números e FAQ com mascote.</p>
+      <img src="https://img.shields.io/badge/HTML5-040607?style=flat-square&logo=html5&logoColor=BF40FA" />
+      <img src="https://img.shields.io/badge/CSS3-040607?style=flat-square&logo=css&logoColor=BF40FA" />
+      <img src="https://img.shields.io/badge/JavaScript-040607?style=flat-square&logo=javascript&logoColor=BF40FA" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>💈 <a href="https://lorenzo-or7.github.io/barbearia-chapula-demo/">Barbearia Chapula</a></h3>
       <p>Site para barbearia com serviços, preços, localização e agendamento rápido pelo WhatsApp.</p>
+      <img src="https://img.shields.io/badge/HTML5-040607?style=flat-square&logo=html5&logoColor=BF40FA" />
+      <img src="https://img.shields.io/badge/CSS3-040607?style=flat-square&logo=css&logoColor=BF40FA" />
+      <img src="https://img.shields.io/badge/JavaScript-040607?style=flat-square&logo=javascript&logoColor=BF40FA" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🦎 <a href="https://lorenzo-or7.github.io/iguana-emporio-pet-demo/">Iguana Empório Pet</a></h3>
+      <p>Site para pet shop de Curitiba com produtos, banho e tosa, delivery, cashback e tema claro/escuro.</p>
       <img src="https://img.shields.io/badge/HTML5-040607?style=flat-square&logo=html5&logoColor=BF40FA" />
       <img src="https://img.shields.io/badge/CSS3-040607?style=flat-square&logo=css&logoColor=BF40FA" />
       <img src="https://img.shields.io/badge/JavaScript-040607?style=flat-square&logo=javascript&logoColor=BF40FA" />
@@ -105,9 +128,12 @@
       <img src="https://img.shields.io/badge/CSS3-040607?style=flat-square&logo=css&logoColor=BF40FA" />
       <img src="https://img.shields.io/badge/JavaScript-040607?style=flat-square&logo=javascript&logoColor=BF40FA" />
     </td>
-    <td width="50%" valign="top" align="center">
-      <h3>🚀 Em breve</h3>
-      <p>Novos projetos a caminho. Fique de olho!</p>
+    <td width="50%" valign="top">
+      <h3>✨ <a href="https://lorenzo-or7.github.io/casa-di-lucente-demo/">Casa di Lucente</a> <sup>⏸️ descontinuado</sup></h3>
+      <p>Site para gelateria e cafeteria de Curitiba, com cardápio filtrável, disponibilidade do dia, vídeos e tema claro/escuro. <i>Projeto encerrado; o site segue no ar como registro.</i></p>
+      <img src="https://img.shields.io/badge/HTML5-040607?style=flat-square&logo=html5&logoColor=BF40FA" />
+      <img src="https://img.shields.io/badge/CSS3-040607?style=flat-square&logo=css&logoColor=BF40FA" />
+      <img src="https://img.shields.io/badge/JavaScript-040607?style=flat-square&logo=javascript&logoColor=BF40FA" />
     </td>
   </tr>
 </table>
@@ -126,5 +152,6 @@
 <!-- ===================== RODAPÉ ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BF40FA,100:040607&height=120&section=footer" width="100%" alt="Footer" />
+  <img src="footer.svg" width="100%" alt="" />
 </p>
+[README.md](https://github.com/user-attachments/files/32987550/README.md)
