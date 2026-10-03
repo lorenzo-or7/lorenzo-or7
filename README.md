@@ -83,8 +83,8 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>✨ <a href="https://lorenzo-or7.github.io/casa-di-lucente-demo/">Casa di Lucente</a></h3>
-      <p>Site para gelateria e cafeteria de Curitiba, com cardápio filtrável, disponibilidade do dia, vídeos e tema claro/escuro.</p>
+      <h3>✨ <a href="https://lorenzo-or7.github.io/casa-di-lucente-demo/">Casa di Lucente</a> <sup>⏸️ descontinuado</sup></h3>
+      <p>Site para gelateria e cafeteria de Curitiba, com cardápio filtrável, disponibilidade do dia, vídeos e tema claro/escuro. <i>Projeto encerrado; o site segue no ar como registro.</i></p>
       <img src="https://img.shields.io/badge/HTML5-040607?style=flat-square&logo=html5&logoColor=BF40FA" />
       <img src="https://img.shields.io/badge/CSS3-040607?style=flat-square&logo=css&logoColor=BF40FA" />
       <img src="https://img.shields.io/badge/JavaScript-040607?style=flat-square&logo=javascript&logoColor=BF40FA" />
