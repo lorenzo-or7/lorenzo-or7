@@ -1,5 +1,7 @@
-<img width="1200" height="100" alt="footer" src="https://github.com/user-attachments/assets/88a75a8e-e181-4786-b018-1cc05c53de2b" />
 <!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d96056b3-d0ef-489e-95eb-d244325dd944" width="100%" alt="Lorenzo Orsetti" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=BF40FA&center=true&vCenter=true&width=520&lines=Ol%C3%A1!+Eu+sou+o+Lorenzo+%F0%9F%91%8B;Desenvolvedor+Web+Full+Stack;JavaScript+%E2%80%A2+Python+%E2%80%A2+PHP+%E2%80%A2+MySQL" alt="Typing SVG" />
@@ -151,8 +153,5 @@
 <!-- ===================== RODAPÉ ===================== -->
 
 <p align="center">
-  <img src="footer.svg" width="100%" alt="" />
+  <img src="https://github.com/user-attachments/assets/88a75a8e-e181-4786-b018-1cc05c53de2b" width="100%" alt="" />
 </p>
-[README.md](https://github.com/user-attachments/files/32987561/README.md)
-
-<img width="1200" height="220" alt="banner" src="https://github.com/user-attachments/assets/d96056b3-d0ef-489e-95eb-d244325dd944" />
