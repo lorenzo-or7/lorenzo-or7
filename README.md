@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  🚀 Acabei de lançar o <a href="https://planosdegoverno.com.br/"><b>VotAI</b></a> &nbsp;•&nbsp; 🌱 Aprendendo coisas novas todo dia &nbsp;•&nbsp; 💬 Pode me chamar para projetos freelance
+  &nbsp;•&nbsp; 🌱 Aprendendo coisas novas todo dia &nbsp;•&nbsp; 💬 Pode me chamar para projetos freelance
 </p>
 
 ---
