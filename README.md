@@ -15,6 +15,9 @@
   <a href="https://www.linkedin.com/in/lorenzo-orsetti-031906349/">
     <img src="https://img.shields.io/badge/LinkedIn-040607?style=for-the-badge&logo=linkedin&logoColor=BF40FA" alt="LinkedIn" />
   </a>
+  <a href="https://x.com/lorenzo__or7">
+    <img src="https://img.shields.io/badge/X-040607?style=for-the-badge&logo=x&logoColor=BF40FA" alt="X (Twitter)" />
+  </a>
   <a href="https://www.instagram.com/lorenzo.or7/">
     <img src="https://img.shields.io/badge/Instagram-040607?style=for-the-badge&logo=instagram&logoColor=BF40FA" alt="Instagram" />
   </a>
@@ -36,7 +39,7 @@
 </p>
 
 <p align="center">
-  🚀 Lancei o <a href="https://nexo-gamma-one.vercel.app"><b>NEXO</b></a> &nbsp;•&nbsp; 🌱 Aprendendo coisas novas todo dia &nbsp;•&nbsp; 💬 Pode me chamar para projetos freelance
+  🚀 No ar: <a href="https://planosdegoverno.com.br/"><b>VotAI</b></a> e <a href="https://nexo-gamma-one.vercel.app"><b>NEXO</b></a> &nbsp;•&nbsp; 🌱 Aprendendo coisas novas todo dia &nbsp;•&nbsp; 💬 Pode me chamar para projetos freelance
 </p>
 
 ---
@@ -44,50 +47,77 @@
 <!-- ===================== TECNOLOGIAS ===================== -->
 <h2 align="center">🟣 Tecnologias</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-040607?style=for-the-badge&logo=html5&logoColor=BF40FA" />
-  <img src="https://img.shields.io/badge/CSS3-040607?style=for-the-badge&logo=css&logoColor=BF40FA" />
-  <img src="https://img.shields.io/badge/JavaScript-040607?style=for-the-badge&logo=javascript&logoColor=BF40FA" />
-  <img src="https://img.shields.io/badge/Python-040607?style=for-the-badge&logo=python&logoColor=BF40FA" />
-  <img src="https://img.shields.io/badge/PHP-040607?style=for-the-badge&logo=php&logoColor=BF40FA" />
-  <img src="https://img.shields.io/badge/TypeScript-040607?style=for-the-badge&logo=typescript&logoColor=BF40FA" />
-  <br/>
-  <img src="https://img.shields.io/badge/React-040607?style=for-the-badge&logo=react&logoColor=BF40FA" />
-  <img src="https://img.shields.io/badge/Next.js-040607?style=for-the-badge&logo=nextdotjs&logoColor=BF40FA" />
-  <img src="https://img.shields.io/badge/MySQL-040607?style=for-the-badge&logo=mysql&logoColor=BF40FA" />
-  <img src="https://img.shields.io/badge/Supabase-040607?style=for-the-badge&logo=supabase&logoColor=BF40FA" />
-  <img src="https://img.shields.io/badge/Git-040607?style=for-the-badge&logo=git&logoColor=BF40FA" />
-  <img src="https://img.shields.io/badge/GitHub-040607?style=for-the-badge&logo=github&logoColor=BF40FA" />
-  <img src="https://img.shields.io/badge/VS%20Code-040607?style=for-the-badge&logo=vscodium&logoColor=BF40FA" />
-  <img src="https://img.shields.io/badge/Figma-040607?style=for-the-badge&logo=figma&logoColor=BF40FA" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://lorenzo-or7.github.io/assets/icons/html5.webp" width="52" height="52" alt="HTML5" /><br/><sub><b>HTML5</b></sub></td>
+    <td align="center" width="96"><img src="https://lorenzo-or7.github.io/assets/icons/css3.webp" width="52" height="52" alt="CSS3" /><br/><sub><b>CSS3</b></sub></td>
+    <td align="center" width="96"><img src="https://lorenzo-or7.github.io/assets/icons/javascript.webp" width="52" height="52" alt="JavaScript" /><br/><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="96"><img src="https://lorenzo-or7.github.io/assets/icons/typescript.webp" width="52" height="52" alt="TypeScript" /><br/><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="96"><img src="https://lorenzo-or7.github.io/assets/icons/react.webp" width="52" height="52" alt="React" /><br/><sub><b>React</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://lorenzo-or7.github.io/assets/icons/nextjs.webp" width="52" height="52" alt="Next.js" /><br/><sub><b>Next.js</b></sub></td>
+    <td align="center" width="96"><img src="https://lorenzo-or7.github.io/assets/icons/tailwind.webp" width="52" height="52" alt="Tailwind" /><br/><sub><b>Tailwind</b></sub></td>
+    <td align="center" width="96"><img src="https://lorenzo-or7.github.io/assets/icons/php.webp" width="52" height="52" alt="PHP" /><br/><sub><b>PHP</b></sub></td>
+    <td align="center" width="96"><img src="https://lorenzo-or7.github.io/assets/icons/python.webp" width="52" height="52" alt="Python" /><br/><sub><b>Python</b></sub></td>
+    <td align="center" width="96"><img src="https://lorenzo-or7.github.io/assets/icons/mysql.webp" width="52" height="52" alt="MySQL" /><br/><sub><b>MySQL</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://lorenzo-or7.github.io/assets/icons/supabase.webp" width="52" height="52" alt="Supabase" /><br/><sub><b>Supabase</b></sub></td>
+    <td align="center" width="96"><img src="https://lorenzo-or7.github.io/assets/icons/git.webp" width="52" height="52" alt="Git" /><br/><sub><b>Git</b></sub></td>
+    <td align="center" width="96"><img src="https://lorenzo-or7.github.io/assets/icons/github.webp" width="52" height="52" alt="GitHub" /><br/><sub><b>GitHub</b></sub></td>
+    <td align="center" width="96"><img src="https://lorenzo-or7.github.io/assets/icons/vscode.webp" width="52" height="52" alt="VS Code" /><br/><sub><b>VS Code</b></sub></td>
+    <td align="center" width="96"><img src="https://lorenzo-or7.github.io/assets/icons/figma.webp" width="52" height="52" alt="Figma" /><br/><sub><b>Figma</b></sub></td>
+  </tr>
+</table>
 
 ---
 
 <!-- ===================== PROJETOS ===================== -->
-<h2 align="center">🟣 Projetos</h2>
+<h2 align="center">⭐ Projetos em destaque</h2>
 
 <table align="center">
   <tr>
-    <td colspan="2" valign="top">
-      <h3>🗳️ <a href="https://planosdegoverno.com.br/">VotAI</a> <sup>🟢 no ar</sup></h3>
-      <p>Plataforma que organiza os planos de governo das Eleições 2026: 1.866 propostas de 13 candidaturas, em 14 temas, para comparar lado a lado. <a href="https://github.com/lorenzo-or7/VotAI">Ver código</a></p>
+    <td width="55%" valign="middle">
+      <a href="https://planosdegoverno.com.br/"><img src="https://lorenzo-or7.github.io/assets/projects/votai/cover.webp" width="100%" alt="VotAI" /></a>
+    </td>
+    <td width="45%" valign="middle">
+      <h3>🗳️ VotAI <sup>🟢 no ar</sup></h3>
+      <p>Plataforma apartidária que organiza os planos de governo das Eleições 2026: <b>1.866 propostas</b> de <b>13 candidaturas</b>, em <b>14 temas</b>, para comparar lado a lado, sempre com o trecho do documento oficial.</p>
       <img src="https://img.shields.io/badge/PHP-040607?style=flat-square&logo=php&logoColor=BF40FA" />
       <img src="https://img.shields.io/badge/MySQL-040607?style=flat-square&logo=mysql&logoColor=BF40FA" />
+      <img src="https://img.shields.io/badge/JavaScript-040607?style=flat-square&logo=javascript&logoColor=BF40FA" />
       <img src="https://img.shields.io/badge/Dados%20Abertos-TSE-BF40FA?style=flat-square&labelColor=040607" />
+      <br/><br/>
+      <a href="https://planosdegoverno.com.br/"><img src="https://img.shields.io/badge/Acessar%20o%20site-BF40FA?style=for-the-badge&logo=googlechrome&logoColor=040607" /></a>
+      <a href="https://github.com/lorenzo-or7/VotAI"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-040607?style=for-the-badge&logo=github&logoColor=BF40FA" /></a>
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <h3>💸 <a href="https://nexo-gamma-one.vercel.app">NEXO</a> <sup>🟢 no ar</sup> <sup>🆕</sup></h3>
-      <p>Aplicação de finanças pessoais: contas, cartões, faturas, assinaturas e projeção do saldo. Next.js, TypeScript e Supabase, com testes. <a href="https://github.com/lorenzo-or7/nexo">Ver código</a></p>
+    <td width="45%" valign="middle">
+      <h3>💸 NEXO <sup>🟢 no ar</sup></h3>
+      <p>Aplicação de finanças pessoais: contas, cartões, faturas, parcelamentos e assinaturas, com <b>projeção do saldo dia a dia</b>. Banco com Row Level Security e testes automatizados do motor financeiro.</p>
       <img src="https://img.shields.io/badge/Next.js-040607?style=flat-square&logo=nextdotjs&logoColor=BF40FA" />
       <img src="https://img.shields.io/badge/TypeScript-040607?style=flat-square&logo=typescript&logoColor=BF40FA" />
       <img src="https://img.shields.io/badge/React-040607?style=flat-square&logo=react&logoColor=BF40FA" />
       <img src="https://img.shields.io/badge/Supabase-040607?style=flat-square&logo=supabase&logoColor=BF40FA" />
-      <img src="https://img.shields.io/badge/Tailwind%20CSS-040607?style=flat-square&logo=tailwindcss&logoColor=BF40FA" />
+      <img src="https://img.shields.io/badge/Tailwind-040607?style=flat-square&logo=tailwindcss&logoColor=BF40FA" />
+      <br/><br/>
+      <a href="https://nexo-gamma-one.vercel.app"><img src="https://img.shields.io/badge/Acessar%20o%20app-BF40FA?style=for-the-badge&logo=vercel&logoColor=040607" /></a>
+      <a href="https://github.com/lorenzo-or7/nexo"><img src="https://img.shields.io/badge/Ver%20c%C3%B3digo-040607?style=for-the-badge&logo=github&logoColor=BF40FA" /></a>
+    </td>
+    <td width="55%" valign="middle">
+      <a href="https://nexo-gamma-one.vercel.app"><img src="https://lorenzo-or7.github.io/assets/projects/nexo-cover.webp" width="100%" alt="NEXO" /></a>
     </td>
   </tr>
+</table>
+
+---
+
+<!-- ===================== OUTROS PROJETOS ===================== -->
+<h2 align="center">🟣 Outros projetos</h2>
+
+<table align="center">
   <tr>
     <td width="50%" valign="top">
       <h3>📈 <a href="https://lorenzo-or7.github.io/mkt/">MKT</a> <sup>🆕</sup></h3>
