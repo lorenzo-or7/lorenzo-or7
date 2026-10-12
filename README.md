@@ -48,7 +48,6 @@
 <h2 align="center">🟣 Tecnologias</h2>
 
 <p align="center">
-  <sub><b>FRONTEND</b></sub><br/>
   <img src="https://lorenzo-or7.github.io/assets/icons/html5.webp" width="34" height="34" alt="HTML5" title="HTML5" /> &nbsp;
   <img src="https://lorenzo-or7.github.io/assets/icons/css3.webp" width="34" height="34" alt="CSS3" title="CSS3" /> &nbsp;
   <img src="https://lorenzo-or7.github.io/assets/icons/javascript.webp" width="34" height="34" alt="JavaScript" title="JavaScript" /> &nbsp;
@@ -59,7 +58,6 @@
 </p>
 
 <p align="center">
-  <sub><b>BACK-END E BANCO DE DADOS</b></sub><br/>
   <img src="https://lorenzo-or7.github.io/assets/icons/php.webp" width="34" height="34" alt="PHP" title="PHP" /> &nbsp;
   <img src="https://lorenzo-or7.github.io/assets/icons/python.webp" width="34" height="34" alt="Python" title="Python" /> &nbsp;
   <img src="https://lorenzo-or7.github.io/assets/icons/mysql.webp" width="34" height="34" alt="MySQL" title="MySQL" /> &nbsp;
@@ -67,7 +65,6 @@
 </p>
 
 <p align="center">
-  <sub><b>FERRAMENTAS</b></sub><br/>
   <img src="https://lorenzo-or7.github.io/assets/icons/git.webp" width="34" height="34" alt="Git" title="Git" /> &nbsp;
   <img src="https://lorenzo-or7.github.io/assets/icons/github.webp" width="34" height="34" alt="GitHub" title="GitHub" /> &nbsp;
   <img src="https://lorenzo-or7.github.io/assets/icons/vscode.webp" width="34" height="34" alt="VS Code" title="VS Code" /> &nbsp;
