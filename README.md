@@ -48,27 +48,27 @@
 <h2 align="center">🟣 Tecnologias</h2>
 
 <p align="center">
-  <img src="https://lorenzo-or7.github.io/assets/icons/html5.webp" width="34" height="34" alt="HTML5" title="HTML5" /> &nbsp;
-  <img src="https://lorenzo-or7.github.io/assets/icons/css3.webp" width="34" height="34" alt="CSS3" title="CSS3" /> &nbsp;
-  <img src="https://lorenzo-or7.github.io/assets/icons/javascript.webp" width="34" height="34" alt="JavaScript" title="JavaScript" /> &nbsp;
-  <img src="https://lorenzo-or7.github.io/assets/icons/typescript.webp" width="34" height="34" alt="TypeScript" title="TypeScript" /> &nbsp;
-  <img src="https://lorenzo-or7.github.io/assets/icons/react.webp" width="34" height="34" alt="React" title="React" /> &nbsp;
-  <img src="https://lorenzo-or7.github.io/assets/icons/nextjs.webp" width="34" height="34" alt="Next.js" title="Next.js" /> &nbsp;
-  <img src="https://lorenzo-or7.github.io/assets/icons/tailwind.webp" width="34" height="34" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://lorenzo-or7.github.io/assets/icons/html5.webp" width="24" height="24" alt="HTML5" title="HTML5" /> &nbsp;
+  <img src="https://lorenzo-or7.github.io/assets/icons/css3.webp" width="24" height="24" alt="CSS3" title="CSS3" /> &nbsp;
+  <img src="https://lorenzo-or7.github.io/assets/icons/javascript.webp" width="24" height="24" alt="JavaScript" title="JavaScript" /> &nbsp;
+  <img src="https://lorenzo-or7.github.io/assets/icons/typescript.webp" width="24" height="24" alt="TypeScript" title="TypeScript" /> &nbsp;
+  <img src="https://lorenzo-or7.github.io/assets/icons/react.webp" width="24" height="24" alt="React" title="React" /> &nbsp;
+  <img src="https://lorenzo-or7.github.io/assets/icons/nextjs.webp" width="24" height="24" alt="Next.js" title="Next.js" /> &nbsp;
+  <img src="https://lorenzo-or7.github.io/assets/icons/tailwind.webp" width="24" height="24" alt="Tailwind CSS" title="Tailwind CSS" />
 </p>
 
 <p align="center">
-  <img src="https://lorenzo-or7.github.io/assets/icons/php.webp" width="34" height="34" alt="PHP" title="PHP" /> &nbsp;
-  <img src="https://lorenzo-or7.github.io/assets/icons/python.webp" width="34" height="34" alt="Python" title="Python" /> &nbsp;
-  <img src="https://lorenzo-or7.github.io/assets/icons/mysql.webp" width="34" height="34" alt="MySQL" title="MySQL" /> &nbsp;
-  <img src="https://lorenzo-or7.github.io/assets/icons/supabase.webp" width="34" height="34" alt="Supabase" title="Supabase" />
+  <img src="https://lorenzo-or7.github.io/assets/icons/php.webp" width="24" height="24" alt="PHP" title="PHP" /> &nbsp;
+  <img src="https://lorenzo-or7.github.io/assets/icons/python.webp" width="24" height="24" alt="Python" title="Python" /> &nbsp;
+  <img src="https://lorenzo-or7.github.io/assets/icons/mysql.webp" width="24" height="24" alt="MySQL" title="MySQL" /> &nbsp;
+  <img src="https://lorenzo-or7.github.io/assets/icons/supabase.webp" width="24" height="24" alt="Supabase" title="Supabase" />
 </p>
 
 <p align="center">
-  <img src="https://lorenzo-or7.github.io/assets/icons/git.webp" width="34" height="34" alt="Git" title="Git" /> &nbsp;
-  <img src="https://lorenzo-or7.github.io/assets/icons/github.webp" width="34" height="34" alt="GitHub" title="GitHub" /> &nbsp;
-  <img src="https://lorenzo-or7.github.io/assets/icons/vscode.webp" width="34" height="34" alt="VS Code" title="VS Code" /> &nbsp;
-  <img src="https://lorenzo-or7.github.io/assets/icons/figma.webp" width="34" height="34" alt="Figma" title="Figma" />
+  <img src="https://lorenzo-or7.github.io/assets/icons/git.webp" width="24" height="24" alt="Git" title="Git" /> &nbsp;
+  <img src="https://lorenzo-or7.github.io/assets/icons/github.webp" width="24" height="24" alt="GitHub" title="GitHub" /> &nbsp;
+  <img src="https://lorenzo-or7.github.io/assets/icons/vscode.webp" width="24" height="24" alt="VS Code" title="VS Code" /> &nbsp;
+  <img src="https://lorenzo-or7.github.io/assets/icons/figma.webp" width="24" height="24" alt="Figma" title="Figma" />
 </p>
 
 ---
