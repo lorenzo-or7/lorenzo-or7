@@ -120,7 +120,23 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3>📈 <a href="https://lorenzo-or7.github.io/mkt/">MKT</a> <sup>🆕</sup></h3>
+      <h3>🃏 <a href="https://github.com/lorenzo-or7/duskdex">DuskDex</a> <sup>🆕</sup></h3>
+      <p>Plataforma para colecionadores de Pokémon TCG: catálogo TCGdex, coleção física, fichários, decks, comunidade e trocas.</p>
+      <img src="https://img.shields.io/badge/JavaScript-040607?style=flat-square&logo=javascript&logoColor=BF40FA" />
+      <img src="https://img.shields.io/badge/PHP-040607?style=flat-square&logo=php&logoColor=BF40FA" />
+      <img src="https://img.shields.io/badge/MySQL-040607?style=flat-square&logo=mysql&logoColor=BF40FA" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍜 <a href="https://lorenzo-or7.github.io/saiso-demo/">Saiso</a> <sup>🆕</sup></h3>
+      <p>Site para restaurante e mercado coreano de Curitiba, com cardápio pesquisável, vitrine do K-market e reserva de mesa.</p>
+      <img src="https://img.shields.io/badge/HTML5-040607?style=flat-square&logo=html5&logoColor=BF40FA" />
+      <img src="https://img.shields.io/badge/CSS3-040607?style=flat-square&logo=css&logoColor=BF40FA" />
+      <img src="https://img.shields.io/badge/JavaScript-040607?style=flat-square&logo=javascript&logoColor=BF40FA" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://lorenzo-or7.github.io/mkt/">MKT</a></h3>
       <p>Bolsa de valores fictícia da internet: memes, jogos e criadores negociados com moeda virtual e motor de notícias.</p>
       <img src="https://img.shields.io/badge/HTML5-040607?style=flat-square&logo=html5&logoColor=BF40FA" />
       <img src="https://img.shields.io/badge/CSS3-040607?style=flat-square&logo=css&logoColor=BF40FA" />
@@ -128,7 +144,7 @@
       <img src="https://img.shields.io/badge/Python-040607?style=flat-square&logo=python&logoColor=BF40FA" />
     </td>
     <td width="50%" valign="top">
-      <h3>📷 <a href="https://lorenzo-or7.github.io/namba-demo/">Namba</a> <sup>🆕</sup></h3>
+      <h3>📷 <a href="https://lorenzo-or7.github.io/namba-demo/">Namba</a></h3>
       <p>Site e sistema para assistência técnica Canon de São Paulo, com consulta de O.S., carta de envio e painel da equipe.</p>
       <img src="https://img.shields.io/badge/HTML5-040607?style=flat-square&logo=html5&logoColor=BF40FA" />
       <img src="https://img.shields.io/badge/CSS3-040607?style=flat-square&logo=css&logoColor=BF40FA" />
@@ -137,14 +153,14 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔥 <a href="https://lorenzo-or7.github.io/capim-leao-demo/">Capim Leão</a> <sup>🆕</sup></h3>
+      <h3>🔥 <a href="https://lorenzo-or7.github.io/capim-leao-demo/">Capim Leão</a></h3>
       <p>Site para bar e restaurante de Curitiba, com cardápio em abas, guia do ponto da carne, Happy Hour e reserva.</p>
       <img src="https://img.shields.io/badge/HTML5-040607?style=flat-square&logo=html5&logoColor=BF40FA" />
       <img src="https://img.shields.io/badge/CSS3-040607?style=flat-square&logo=css&logoColor=BF40FA" />
       <img src="https://img.shields.io/badge/JavaScript-040607?style=flat-square&logo=javascript&logoColor=BF40FA" />
     </td>
     <td width="50%" valign="top">
-      <h3>🧘 <a href="https://lorenzo-or7.github.io/studio-astra-demo/">Studio Astra</a> <sup>🆕</sup></h3>
+      <h3>🧘 <a href="https://lorenzo-or7.github.io/studio-astra-demo/">Studio Astra</a></h3>
       <p>Site para estúdio de Pilates de Curitiba, com guia por objetivo, galeria do espaço e agendamento de aula experimental.</p>
       <img src="https://img.shields.io/badge/HTML5-040607?style=flat-square&logo=html5&logoColor=BF40FA" />
       <img src="https://img.shields.io/badge/CSS3-040607?style=flat-square&logo=css&logoColor=BF40FA" />
@@ -153,7 +169,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎮 <a href="https://lorenzo-or7.github.io/eloplus-demo/">EloPlus</a> <sup>🆕</sup></h3>
+      <h3>🎮 <a href="https://lorenzo-or7.github.io/eloplus-demo/">EloPlus</a></h3>
       <p>Site para serviço de Valorant, com calculadora de orçamento e experiência de ranks animada pela rolagem.</p>
       <img src="https://img.shields.io/badge/HTML5-040607?style=flat-square&logo=html5&logoColor=BF40FA" />
       <img src="https://img.shields.io/badge/CSS3-040607?style=flat-square&logo=css&logoColor=BF40FA" />
