@@ -226,10 +226,16 @@ Open to development opportunities, collaborations and new projects.
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/branding/or7-watermark-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/branding/or7-watermark-light.png">
-  <img src="assets/branding/or7-watermark-dark.png" alt="Or7 | Idealizado e desenvolvido por Lorenzo Orsetti" width="390">
-</picture>
+
+<div align="center">
+
+  <img
+    src="assets/branding/or7-watermark.png"
+    alt="Or7 | Idealizado e desenvolvido por Lorenzo Orsetti"
+    width="420"
+  >
+
+</div>
+
 
 </div>
