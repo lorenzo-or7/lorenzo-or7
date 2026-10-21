@@ -1,3 +1,4 @@
+
 <!-- OR7 / GITHUB PROFILE • VIOLET FLOW -->
 <div align="center">
 
@@ -195,24 +196,35 @@ Additional work across small businesses, experiments, hospitality and digital se
 
 | | |
 |:---:|:---:|
-| <a href="https://lorenzo-or7.github.io/retrama/"><img src="assets/secondary/retrama.webp" alt="re.trama portfolio artwork" width="100%"></a><br><strong>re.trama</strong><br><sub>Crochet atelier & handmade products</sub><br><a href="https://lorenzo-or7.github.io/retrama/">View project ↗</a> | <a href="https://lorenzo-or7.github.io/mkt/"><img src="assets/secondary/mkt.webp" alt="MKT portfolio artwork" width="100%"></a><br><strong>MKT</strong><br><sub>Fictional internet culture market · no real money</sub><br><a href="https://lorenzo-or7.github.io/mkt/">View project ↗</a> |
-| <a href="https://lorenzo-or7.github.io/namba-demo/"><img src="assets/secondary/cine-camera-service.webp" alt="Cine Camera Service portfolio artwork" width="100%"></a><br><strong>Cine Camera Service</strong><br><sub>Camera repair & service-order experience</sub><br><a href="https://lorenzo-or7.github.io/namba-demo/">View project ↗</a> | <a href="https://lorenzo-or7.github.io/contlup-demo/"><img src="assets/secondary/contlup.webp" alt="ContLup portfolio artwork" width="100%"></a><br><strong>ContLup</strong><br><sub>Accounting website & virtual assistant</sub><br><a href="https://lorenzo-or7.github.io/contlup-demo/">View project ↗</a> |
-| <a href="https://lorenzo-or7.github.io/studio-astra-demo/"><img src="assets/secondary/studio-astra.webp" alt="Studio Astra portfolio artwork" width="100%"></a><br><strong>Studio Astra</strong><br><sub>Pilates studio website concept</sub><br><a href="https://lorenzo-or7.github.io/studio-astra-demo/">View project ↗</a> | <a href="https://lorenzo-or7.github.io/capim-leao-demo/"><img src="assets/secondary/capim-leao.webp" alt="Capim Leão portfolio artwork" width="100%"></a><br><strong>Capim Leão</strong><br><sub>Restaurant & bar website concept</sub><br><a href="https://lorenzo-or7.github.io/capim-leao-demo/">View project ↗</a> |
-| <a href="https://lorenzo-or7.github.io/eloplus-demo/"><img src="assets/secondary/eloplus.webp" alt="EloPlus portfolio artwork" width="100%"></a><br><strong>EloPlus</strong><br><sub>Valorant service website concept</sub><br><a href="https://lorenzo-or7.github.io/eloplus-demo/">View project ↗</a> | <a href="https://lorenzo-or7.github.io/maca-padaria-demo/"><img src="assets/secondary/maca-padaria.webp" alt="Maçã Padaria portfolio artwork" width="100%"></a><br><strong>Maçã Padaria</strong><br><sub>Artisan bakery website concept</sub><br><a href="https://lorenzo-or7.github.io/maca-padaria-demo/">View project ↗</a> |
+| <a href="https://lorenzo-or7.github.io/retrama/"><img src="assets/secondary/retrama.webp" alt="re.trama portfolio artwork" width="100%"></a><br><strong>re.trama</strong><br><sub>Crochet atelier & handmade products</sub><br><br><a href="https://lorenzo-or7.github.io/retrama/"><img src="https://img.shields.io/badge/VIEW_PROJECT-7C5BC5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View project"></a> | <a href="https://lorenzo-or7.github.io/mkt/"><img src="assets/secondary/mkt.webp" alt="MKT portfolio artwork" width="100%"></a><br><strong>MKT</strong><br><sub>Fictional internet culture market · no real money</sub><br><br><a href="https://lorenzo-or7.github.io/mkt/"><img src="https://img.shields.io/badge/VIEW_PROJECT-7C5BC5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View project"></a> |
+| <a href="https://lorenzo-or7.github.io/namba-demo/"><img src="assets/secondary/cine-camera-service.webp" alt="Cine Camera Service portfolio artwork" width="100%"></a><br><strong>Cine Camera Service</strong><br><sub>Camera repair & service-order experience</sub><br><br><a href="https://lorenzo-or7.github.io/namba-demo/"><img src="https://img.shields.io/badge/VIEW_PROJECT-7C5BC5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View project"></a> | <a href="https://lorenzo-or7.github.io/contlup-demo/"><img src="assets/secondary/contlup.webp" alt="ContLup portfolio artwork" width="100%"></a><br><strong>ContLup</strong><br><sub>Accounting website & virtual assistant</sub><br><br><a href="https://lorenzo-or7.github.io/contlup-demo/"><img src="https://img.shields.io/badge/VIEW_PROJECT-7C5BC5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View project"></a> |
+| <a href="https://lorenzo-or7.github.io/studio-astra-demo/"><img src="assets/secondary/studio-astra.webp" alt="Studio Astra portfolio artwork" width="100%"></a><br><strong>Studio Astra</strong><br><sub>Pilates studio website concept</sub><br><br><a href="https://lorenzo-or7.github.io/studio-astra-demo/"><img src="https://img.shields.io/badge/VIEW_PROJECT-7C5BC5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View project"></a> | <a href="https://lorenzo-or7.github.io/capim-leao-demo/"><img src="assets/secondary/capim-leao.webp" alt="Capim Leão portfolio artwork" width="100%"></a><br><strong>Capim Leão</strong><br><sub>Restaurant & bar website concept</sub><br><br><a href="https://lorenzo-or7.github.io/capim-leao-demo/"><img src="https://img.shields.io/badge/VIEW_PROJECT-7C5BC5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View project"></a> |
+| <a href="https://lorenzo-or7.github.io/eloplus-demo/"><img src="assets/secondary/eloplus.webp" alt="EloPlus portfolio artwork" width="100%"></a><br><strong>EloPlus</strong><br><sub>Valorant service website concept</sub><br><br><a href="https://lorenzo-or7.github.io/eloplus-demo/"><img src="https://img.shields.io/badge/VIEW_PROJECT-7C5BC5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View project"></a> | <a href="https://lorenzo-or7.github.io/maca-padaria-demo/"><img src="assets/secondary/maca-padaria.webp" alt="Maçã Padaria portfolio artwork" width="100%"></a><br><strong>Maçã Padaria</strong><br><sub>Artisan bakery website concept</sub><br><br><a href="https://lorenzo-or7.github.io/maca-padaria-demo/"><img src="https://img.shields.io/badge/VIEW_PROJECT-7C5BC5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View project"></a> |
 
 
-<div align="center"><br><a href="https://lorenzo-or7.github.io/"><strong>Explore my full portfolio ↗</strong></a></div>
+<div align="center">
+<br>
+<a href="https://lorenzo-or7.github.io/">
+  <img src="https://img.shields.io/badge/EXPLORE_FULL_PORTFOLIO-7C5BC5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore full portfolio">
+</a>
+<br>
+</div>
 
 ---
 
 ## 05 / GitHub Analytics
 
 <div align="center">
-<table><tr><td width="50%" valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lorenzo-or7&show_icons=true&hide_border=true&bg_color=151320&title_color=B49AFF&text_color=E7DFF2&icon_color=B49AFF&include_all_commits=true" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lorenzo-or7&show_icons=true&hide_border=true&bg_color=F6F3FA&title_color=7456BA&text_color=332845&icon_color=7456BA&include_all_commits=true" /><img alt="GitHub statistics for Lorenzo Orsetti" src="https://github-readme-stats.vercel.app/api?username=lorenzo-or7&show_icons=true&hide_border=true&bg_color=151320&title_color=B49AFF&text_color=E7DFF2&icon_color=B49AFF&include_all_commits=true" width="100%" /></picture></td><td width="50%" valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-or7&layout=compact&langs_count=8&hide_border=true&bg_color=151320&title_color=B49AFF&text_color=E7DFF2" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-or7&layout=compact&langs_count=8&hide_border=true&bg_color=F6F3FA&title_color=7456BA&text_color=332845" /><img alt="Top languages across public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-or7&layout=compact&langs_count=8&hide_border=true&bg_color=151320&title_color=B49AFF&text_color=E7DFF2" width="100%" /></picture></td></tr></table>
+<table><tr><td width="50%" valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lorenzo-or7&show_icons=true&hide_rank=true&hide_border=true&bg_color=151320&title_color=B49AFF&text_color=E7DFF2&icon_color=B49AFF&include_all_commits=true" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lorenzo-or7&show_icons=true&hide_rank=true&hide_border=true&bg_color=F6F3FA&title_color=7456BA&text_color=332845&icon_color=7456BA&include_all_commits=true" /><img alt="GitHub statistics for Lorenzo Orsetti" src="https://github-readme-stats.vercel.app/api?username=lorenzo-or7&show_icons=true&hide_rank=true&hide_border=true&bg_color=151320&title_color=B49AFF&text_color=E7DFF2&icon_color=B49AFF&include_all_commits=true" width="100%" /></picture></td><td width="50%" valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-or7&layout=compact&langs_count=8&hide_border=true&bg_color=151320&title_color=B49AFF&text_color=E7DFF2" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-or7&layout=compact&langs_count=8&hide_border=true&bg_color=F6F3FA&title_color=7456BA&text_color=332845" /><img alt="Top languages across public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-or7&layout=compact&langs_count=8&hide_border=true&bg_color=151320&title_color=B49AFF&text_color=E7DFF2" width="100%" /></picture></td></tr></table>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lorenzo-or7&bg_color=151320&color=C5B2E2&line=A992EF&point=E4D9FB&area=true&hide_border=true" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lorenzo-or7&bg_color=F6F3FA&color=55456F&line=7456BA&point=8B71C4&area=true&hide_border=true" /><img alt="GitHub contribution activity for lorenzo-or7" src="https://github-readme-activity-graph.vercel.app/graph?username=lorenzo-or7&bg_color=151320&color=C5B2E2&line=A992EF&point=E4D9FB&area=true&hide_border=true" width="100%" /></picture>
+<a href="https://github.com/lorenzo-or7?tab=overview">
+  <img src="https://ghchart.rshah.org/8B5CF6/lorenzo-or7" alt="Calendário de contribuições públicas de Lorenzo Orsetti" width="100%">
+</a>
 
-<sub>Live public GitHub data · Language charts describe repository composition, not skill level. Cards rely on third-party services.</sub>
+<br>
+<a href="https://github.com/lorenzo-or7?tab=overview"><img src="https://img.shields.io/badge/VIEW_CONTRIBUTIONS-242434?style=for-the-badge&logo=github&logoColor=CDBBFF" alt="View contributions on GitHub"></a>
+
+<sub>Public GitHub data · Language percentages represent repository composition, not proficiency. Contribution chart uses a third-party service; the button opens GitHub’s native activity view.</sub>
 </div>
 
 ---
@@ -232,6 +244,10 @@ Open to development opportunities, collaborations and new projects.
 
 ---
 
-**Or7** &nbsp; | &nbsp; *Idealizado e desenvolvido por Lorenzo Orsetti*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/branding/or7-watermark-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/branding/or7-watermark-light.png">
+  <img src="assets/branding/or7-watermark-dark.png" alt="Or7 | Idealizado e desenvolvido por Lorenzo Orsetti" width="390">
+</picture>
 
 </div>
