@@ -217,14 +217,7 @@ Additional work across small businesses, experiments, hospitality and digital se
 <div align="center">
 <table><tr><td width="50%" valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lorenzo-or7&show_icons=true&hide_rank=true&hide_border=true&bg_color=151320&title_color=B49AFF&text_color=E7DFF2&icon_color=B49AFF&include_all_commits=true" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lorenzo-or7&show_icons=true&hide_rank=true&hide_border=true&bg_color=F6F3FA&title_color=7456BA&text_color=332845&icon_color=7456BA&include_all_commits=true" /><img alt="GitHub statistics for Lorenzo Orsetti" src="https://github-readme-stats.vercel.app/api?username=lorenzo-or7&show_icons=true&hide_rank=true&hide_border=true&bg_color=151320&title_color=B49AFF&text_color=E7DFF2&icon_color=B49AFF&include_all_commits=true" width="100%" /></picture></td><td width="50%" valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-or7&layout=compact&langs_count=8&hide_border=true&bg_color=151320&title_color=B49AFF&text_color=E7DFF2" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-or7&layout=compact&langs_count=8&hide_border=true&bg_color=F6F3FA&title_color=7456BA&text_color=332845" /><img alt="Top languages across public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-or7&layout=compact&langs_count=8&hide_border=true&bg_color=151320&title_color=B49AFF&text_color=E7DFF2" width="100%" /></picture></td></tr></table>
 
-<a href="https://github.com/lorenzo-or7?tab=overview">
-  <img src="https://ghchart.rshah.org/8B5CF6/lorenzo-or7" alt="Calendário de contribuições públicas de Lorenzo Orsetti" width="100%">
-</a>
-
-<br>
-<a href="https://github.com/lorenzo-or7?tab=overview"><img src="https://img.shields.io/badge/VIEW_CONTRIBUTIONS-242434?style=for-the-badge&logo=github&logoColor=CDBBFF" alt="View contributions on GitHub"></a>
-
-<sub>Public GitHub data · Language percentages represent repository composition, not proficiency. Contribution chart uses a third-party service; the button opens GitHub’s native activity view.</sub>
+<sub>Public GitHub data · Language percentages represent repository composition, not proficiency. The native contribution calendar appears automatically on the GitHub profile below this README.</sub>
 </div>
 
 ---
