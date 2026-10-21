@@ -90,7 +90,13 @@ Explore and compare electoral proposals using their original documents and trace
 
 `PHP · MySQL · JavaScript`
 
-[**Live website ↗**](https://planosdegoverno.com.br/) &nbsp; · &nbsp; [**Source code ↗**](https://github.com/lorenzo-or7/VotAI)
+<a href="https://planosdegoverno.com.br/">
+  <img src="https://img.shields.io/badge/LIVE_WEBSITE-7C5BC5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="VotAI Live Website">
+</a>
+&nbsp;
+<a href="https://github.com/lorenzo-or7/VotAI">
+  <img src="https://img.shields.io/badge/SOURCE_CODE-242434?style=for-the-badge&logo=github&logoColor=CDBBFF" alt="VotAI Source Code">
+</a>
 
 <br>
 <a href="https://nexo-gamma-one.vercel.app/"><img src="assets/featured/nexo.webp" alt="NEXO project showcase" width="100%"></a>
@@ -103,7 +109,9 @@ Track accounts, credit cards, subscriptions, expenses and future financial proje
 
 `Personal finance · Web application`
 
-[**Live website ↗**](https://nexo-gamma-one.vercel.app/)
+<a href="https://nexo-gamma-one.vercel.app/">
+  <img src="https://img.shields.io/badge/LIVE_WEBSITE-7C5BC5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NEXO Live Website">
+</a>
 
 <br>
 <a href="https://lorenzo-or7.github.io/duskdex/"><img src="assets/featured/duskdex.webp" alt="DuskDex project showcase" width="100%"></a>
@@ -116,7 +124,13 @@ Organize Pokémon TCG cards, binders, decks, inventory and wishlists in a unifie
 
 `Pokémon TCG · Web application`
 
-[**Live website ↗**](https://lorenzo-or7.github.io/duskdex/) &nbsp; · &nbsp; [**Source code ↗**](https://github.com/lorenzo-or7/duskdex)
+<a href="https://lorenzo-or7.github.io/duskdex/">
+  <img src="https://img.shields.io/badge/LIVE_WEBSITE-7C5BC5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DuskDex Live Website">
+</a>
+&nbsp;
+<a href="https://github.com/lorenzo-or7/duskdex">
+  <img src="https://img.shields.io/badge/SOURCE_CODE-242434?style=for-the-badge&logo=github&logoColor=CDBBFF" alt="DuskDex Source Code">
+</a>
 
 <br>
 <a href="https://lorenzo-or7.github.io/saiso-demo/"><img src="assets/featured/saiso.webp" alt="Saiso project showcase" width="100%"></a>
@@ -129,7 +143,9 @@ A Korean food market website concept with an interactive menu, product showcase 
 
 `Restaurant · UI/UX`
 
-[**Live website ↗**](https://lorenzo-or7.github.io/saiso-demo/)
+<a href="https://lorenzo-or7.github.io/saiso-demo/">
+  <img src="https://img.shields.io/badge/VIEW_DEMO-7C5BC5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Saiso Demo">
+</a>
 
 <br>
 <a href="https://lorenzo-or7.github.io/barbearia-chapula-demo/"><img src="assets/featured/chapula.webp" alt="Barbearia Chapula project showcase" width="100%"></a>
@@ -142,7 +158,13 @@ A premium barbershop website concept with service listings, professional profile
 
 `Commercial website · UI/UX`
 
-[**Live website ↗**](https://lorenzo-or7.github.io/barbearia-chapula-demo/) &nbsp; · &nbsp; [**Source code ↗**](https://github.com/lorenzo-or7/barbearia-chapula-demo)
+<a href="https://lorenzo-or7.github.io/barbearia-chapula-demo/">
+  <img src="https://img.shields.io/badge/VIEW_DEMO-7C5BC5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chapula Demo">
+</a>
+&nbsp;
+<a href="https://github.com/lorenzo-or7/barbearia-chapula-demo">
+  <img src="https://img.shields.io/badge/SOURCE_CODE-242434?style=for-the-badge&logo=github&logoColor=CDBBFF" alt="Chapula Source Code">
+</a>
 
 <br>
 
