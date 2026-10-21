@@ -232,8 +232,7 @@ Open to development opportunities, collaborations and new projects.
   <img
     src="assets/branding/or7-watermark.png"
     alt="Or7 | Idealizado e desenvolvido por Lorenzo Orsetti"
-    width="420"
-  >
+    width="420">
 
 </div>
 
