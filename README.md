@@ -1,4 +1,3 @@
-
 <!-- OR7 / GITHUB PROFILE • VIOLET FLOW -->
 <div align="center">
 
@@ -99,6 +98,8 @@ Explore and compare electoral proposals using their original documents and trace
 </a>
 
 <br>
+<br>
+<br>
 <a href="https://nexo-gamma-one.vercel.app/"><img src="assets/featured/nexo.webp" alt="NEXO project showcase" width="100%"></a>
 
 ### 02 &nbsp; NEXO
@@ -113,6 +114,8 @@ Track accounts, credit cards, subscriptions, expenses and future financial proje
   <img src="https://img.shields.io/badge/LIVE_WEBSITE-7C5BC5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NEXO Live Website">
 </a>
 
+<br>
+<br>
 <br>
 <a href="https://lorenzo-or7.github.io/duskdex/"><img src="assets/featured/duskdex.webp" alt="DuskDex project showcase" width="100%"></a>
 
@@ -133,6 +136,8 @@ Organize Pokémon TCG cards, binders, decks, inventory and wishlists in a unifie
 </a>
 
 <br>
+<br>
+<br>
 <a href="https://lorenzo-or7.github.io/saiso-demo/"><img src="assets/featured/saiso.webp" alt="Saiso project showcase" width="100%"></a>
 
 ### 04 &nbsp; Saiso
@@ -147,6 +152,8 @@ A Korean food market website concept with an interactive menu, product showcase 
   <img src="https://img.shields.io/badge/VIEW_DEMO-7C5BC5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Saiso Demo">
 </a>
 
+<br>
+<br>
 <br>
 <a href="https://lorenzo-or7.github.io/barbearia-chapula-demo/"><img src="assets/featured/chapula.webp" alt="Barbearia Chapula project showcase" width="100%"></a>
 
