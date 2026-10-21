@@ -1,19 +1,30 @@
+
 <!-- OR7 / GITHUB PROFILE • VIOLET FLOW -->
 <div align="center">
 
 <img src="assets/banner/or7-violet-flow.webp" alt="Or7 — Lorenzo Orsetti · Violet Flow signature" width="100%" />
 
-### Software Developer · Software Engineering Student
+<h3>Software Developer ✦</h3>
 
-Curitiba, Brazil · PUCPR
+<p>Software Engineering · PUCPR · Curitiba, Brazil</p>
 
-[**Portfolio**](https://lorenzo-or7.github.io/) &nbsp; · &nbsp; [**LinkedIn**](https://www.linkedin.com/in/lorenzo-orsetti-031906349/) &nbsp; · &nbsp; [**Contact**](mailto:lmorsetti@gmail.com)
+<a href="https://lorenzo-or7.github.io/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-7C5BC5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/lorenzo-orsetti-031906349/">
+  <img src="https://img.shields.io/badge/LINKEDIN-242434?style=for-the-badge&logo=linkedin&logoColor=CDBBFF" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="mailto:lmorsetti@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT-242434?style=for-the-badge&logo=gmail&logoColor=CDBBFF" alt="Contact">
+</a>
 
 </div>
 
----
+<hr>
 
-## 01 / About Me
+<h2>01 / About Me</h2>
 
 ```javascript
 const lorenzo = {
