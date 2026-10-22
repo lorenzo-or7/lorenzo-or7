@@ -12,7 +12,7 @@
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/lorenzo-orsetti-031906349/">
-  <img src="https://img.shields.io/badge/LINKEDIN-242434?style=for-the-badge&logo=linkedin&logoColor=CDBBFF" alt="LinkedIn">
+  <img src="assets/badges/linkedin-dark.svg" alt="LinkedIn">
 </a>
 &nbsp;
 <a href="mailto:lmorsetti@gmail.com">
@@ -65,11 +65,11 @@ Sou estudante de Engenharia de Software na PUCPR, com foco no desenvolvimento de
 
 **Development Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white) ![VS Code](assets/badges/vs-code.svg)
 
 **AI & Development Assistants**
 
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-4E75F6?style=for-the-badge&logo=googlegemini&logoColor=white) ![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-5446BE?style=for-the-badge) ![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-323130?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white) ![ChatGPT](assets/badges/chatgpt.svg) ![Gemini](https://img.shields.io/badge/Gemini-4E75F6?style=for-the-badge&logo=googlegemini&logoColor=white) ![Google Antigravity](assets/badges/google-antigravity.svg) ![Microsoft Copilot](assets/badges/microsoft-copilot.svg)
 
 > Tools and technologies I've worked with, including AI-assisted development tools. Listed tools do not imply equal proficiency.
 
@@ -219,22 +219,17 @@ Additional work across small businesses, experiments, hospitality and digital se
 
 Open to development opportunities, collaborations and new projects.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-orsetti-031906349/)
+[![LinkedIn](assets/badges/linkedin-blue.svg)](https://www.linkedin.com/in/lorenzo-orsetti-031906349/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7456BA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lorenzo-or7.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lorenzo-or7)
 [![Email](https://img.shields.io/badge/Email-A992EF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lmorsetti@gmail.com)
 
 ---
 
-
-<div align="center">
-
-  <img
-    src="assets/branding/or7-watermark.png"
-    alt="Or7 | Idealizado e desenvolvido por Lorenzo Orsetti"
-    width="420">
-
-</div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/branding/or7-watermark-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/branding/or7-watermark-light.png">
+  <img src="assets/branding/or7-watermark-dark.png" alt="Or7 | Idealizado e desenvolvido por Lorenzo Orsetti" width="390">
+</picture>
 
 </div>
